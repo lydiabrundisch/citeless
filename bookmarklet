@@ -1,0 +1,1 @@
+javascript:t=document.getSelection();t=t.toString();t=t.replace(/((\s|\n)\(([^\)]+)\d\d\d\d\))|(\s\(([^\)]+)\n)|((\s|\n)\(([^\)]+)\n\d\d\d\d\))|((\s|\n)\(\d\d\d\d\))/g, "");navigator.clipboard.writeText(t);
