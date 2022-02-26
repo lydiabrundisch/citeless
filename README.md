@@ -1,6 +1,7 @@
 # citeless
 
 Remove citations of author and year for better readability.
+![citeless](https://user-images.githubusercontent.com/94746211/155845329-c6934cba-ca74-4b25-b1c0-c7850f169489.gif)
 
 ## How to use citeless
 
