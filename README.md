@@ -6,8 +6,8 @@ Remove citations of author and year for better readability.
 
 ## How to use citeless
 
-Drag the code in the bookmarklet file into your bookmarks bar. Give the bookmark a clear name e. g. citeless. <br>
-Alternatively, you can use drag this link into your bookmarks bar: <a href="javascript:t=document.getSelection();t=t.toString();t=t.replace(/((\s|\n)\(([^\)]+)\d\d\d\d\))|(\s\(([^\)]+)\n)|((\s|\n)\(([^\)]+)\n\d\d\d\d\))|((\s|\n)\(\d\d\d\d\))/g, '');navigator.clipboard.writeText(t);" class="entrylink">citeless</a> <br>
+Drag the code in the bookmarklet file into your bookmarks bar. <br>
+Give the bookmark a clear name e. g. citeless. <br>
 Select a text from which you want to remove citations. <br>
 Click on the bookmark. <br>
 The edited text is now copied to your clipboard and ready to be pasted in your notetaking app of choice. <br>
